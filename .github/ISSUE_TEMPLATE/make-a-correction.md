@@ -2,7 +2,7 @@
 name: Make a contribution
 about: Contribute to a function, property, or event
 title: E.g. Correcting issue with entry
-labels: correction
+labels: contribution
 assignees: Hexcede
 
 ---
